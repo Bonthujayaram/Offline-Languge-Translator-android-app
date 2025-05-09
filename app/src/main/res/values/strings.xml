@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Language Translator App</string>
+    <string name="language_translator">Language Translator</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="or">OR</string>
+    <string name="translate">Translate</string>
+    <string name="say_something">Say Something</string>
+    <string name="source_text">Source Text</string>
+    <string name="from_language">From Language</string>
+    <string name="to_language">To Language</string>
+</resources>
